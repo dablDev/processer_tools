@@ -6,7 +6,7 @@ setup(
     version='1.0',
     install_requires=[
         'pandas==0.24.2',
-        'xlrd==2.0.1',
+        'xlrd==1.2.0',
         'xlsxwriter==1.3.7'
     ],
     zip_safe=False
